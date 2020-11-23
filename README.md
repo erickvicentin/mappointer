@@ -7,11 +7,11 @@
   or
   yarn install
   ```
-* After installation dependencies, run the project with
-```
-yarn start 
-or 
-expo start
-```
+  * After installation dependencies, run the project with
+  ```
+  yarn start 
+  or 
+  expo start
+  ```
 
-Enjoy!
+  Enjoy!
